@@ -1,0 +1,11 @@
+
+.employees-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.16;
+    text-align: center;
+    color: var(--primary-text-color);
+}
+
+.list-name .title-name {
+    font-weight: 500;
